@@ -1,0 +1,25 @@
+baseurl = "https://andrewwbutler.com/"
+title = "Andrew Butler"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Andrew Butler"
+  disableWebFonts = false
+  
+[[menu.main]]
+    name = "Code"
+    url  = "https://github.com/andrewwbutler"
+[[menu.main]]
+    name = "CV"
+    url  = "/cv.pdf"
+[[menu.main]]
+	name = "Contact"
+	url = "mailto:andrewwbutler@protonmail.com?subject=No Spam Please"
+[[menu.main]]
+  name = "Publications"
+  url = "https://scholar.google.com/citations?user=9vb3cWYAAAAJ&hl=en"

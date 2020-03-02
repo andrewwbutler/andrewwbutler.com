@@ -10,13 +10,16 @@ pygmentscodefences  = true
 [params]
   sitename = "Andrew Butler"
   disableWebFonts = false
-  
+
+[markup.goldmark.renderer]
+  unsafe= true
+
 [[menu.main]]
     name = "Code"
     url  = "https://github.com/andrewwbutler"
 [[menu.main]]
     name = "CV"
-    url  = "https://github.com/andrewwbutler/andrewwbutler.com/raw/master/static/cv.pdf"
+    url  = "/cv/"
 [[menu.main]]
 	name = "Contact"
 	url = "mailto:andrewwbutler@protonmail.com?subject=No Spam Please"

@@ -5,7 +5,7 @@ url = "/cv"
 <div class="cv">
   <div class="topmatter">
     <a class="pdf-download" href="/cv.pdf"><i class="fa fa-download"></i> PDF</a> |
-    <span class="generated-date">Last updated: March 2, 2020</span>
+    <span class="generated-date">Last updated: April 10, 2020</span>
   </div>
 
   <div id="section-education" class="section">
@@ -284,6 +284,11 @@ url = "/cv"
   
    <h4 class="subsection">Awards</h4>
    <ul class="subitems">
+   <li>
+  <span class="name">Harold M. Weintraub Graduate Student Award</span>
+  <span class="date">2020</span>
+</li>
+
    <li>
   <span class="name">New York Genome Center Outstanding Contribution (PhD student)</span>
   <span class="date">2017</span>

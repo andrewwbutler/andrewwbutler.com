@@ -1,16 +1,17 @@
 [Download PDF](/cv.pdf) |
-Last updated: March 2, 2020
+Last updated: October 13, 2020
 
 
 ### Education ###
 -----------------
 **New York University**  
 Ph.D. Candidate Biology  - _August 2015-Present_
-
+<br>
 Advisor: Rahul Satija
 
 **University of Texas at Austin**  
 B.S. Biology Honors  - _August 2011-May 2015_
+<br>
 
 
 ### Research Experience ###
@@ -45,64 +46,195 @@ B.S. Biology Honors  - _August 2011-May 2015_
 
 ### Publications ###
 --------------------
-"Integrated analysis of multimodal single-cell data." ['Yuhan Hao$^*$',
-'Stephanie Hao$^*$', 'Erica Andersen-Nissen', 'William M. Mauck', 'Shiwei
-Zheng', 'Andrew Butler', 'Maddie Jane Lee', 'Aaron J. Wilk', 'Charlotte Darby',
-'Michael Zagar', 'Paul Hoffman', 'Marlon Stoeckius', 'Efthymia Papalexi',
-'Eleni P. Mimitou', 'Jaison Jain', 'Avi Srivastava', 'Tim Stuart', 'Lamar B.
-Fleming', 'Bertrand Yeung', 'Angela J. Rogers', 'Juliana M. McElrath',
-'Catherine A. Blish', 'Raphael Gottardo', 'Peter Smibert', 'Rahul Satija'].
+"[Integrated analysis of multimodal single-cell
+data](https://www.biorxiv.org/content/10.1101/2020.10.12.335331v1)."
+<br>
+Yuhan Hao*, 
+    Stephanie Hao*, 
+    Erica Andersen-Nissen, 
+    William M.
+Mauck, 
+    Shiwei Zheng, 
+    Andrew Butler, 
+    Maddie Jane Lee, 
+    Aaron
+J. Wilk, 
+    Charlotte Darby, 
+    Michael Zagar, 
+    Paul Hoffman,
+Marlon Stoeckius, 
+    Efthymia Papalexi, 
+    Eleni P. Mimitou, 
+    Jaison
+Jain, 
+    Avi Srivastava, 
+    Tim Stuart, 
+    Lamar B. Fleming,
+Bertrand Yeung, 
+    Angela J. Rogers, 
+    Juliana M. McElrath, 
+    Catherine
+A. Blish, 
+    Raphael Gottardo, 
+    Peter Smibert, 
+    Rahul Satija.
 bioRxiv . October 2020.
 
-"Characterizing the molecular regulation of inhibitory immune checkpoints with
-multi-modal single-cell screens." ['Efthymia Papalexi', 'Eleni Mimitou',
-'Andrew Butler', 'Samantha Foster', 'Bernadette Bracken', 'William Mauck',
-'Hans-Hermann Wessels', 'Bertrand Yeung', 'Peter Smibert', 'Rahul Satija'].
-bioRxiv . June 2020.
+"[Characterizing the molecular regulation of inhibitory immune checkpoints with
+multi-modal single-cell
+screens](https://www.biorxiv.org/content/10.1101/2020.06.28.175596v1)."
+<br>
+Efthymia Papalexi, 
+    Eleni Mimitou, 
+    Andrew Butler, 
+    Samantha
+Foster, 
+    Bernadette Bracken, 
+    William Mauck, 
+    Hans-Hermann Wessels,
+Bertrand Yeung, 
+    Peter Smibert, 
+    Rahul Satija. 
+ bioRxiv . June 2020.
 
-"Toward a Common Coordinate Framework for the Human Body." ['Jennifer E. Rood',
-'Tim Stuart$^*$', 'Shila Ghazanfar$^*$', 'Tommaso Biancalani$^*$', 'Eyal
-Fisher', 'Andrew Butler', 'Anna Hupalowska', 'Leslie Gaffney', 'William Mauck',
-'Gokcen Eraslan', 'John C.Marioni', 'Aviv Regev', 'Rahul Satija']. Cell .
-December 2019.
+"[Toward a Common Coordinate Framework for the Human
+Body](https://doi.org/10.1016/j.cell.2019.11.019)."
+<br>
+    Jennifer E. Rood,
+Tim Stuart*, 
+    Shila Ghazanfar*, 
+    Tommaso Biancalani*, 
+    Eyal Fisher,
+Andrew Butler, 
+    Anna Hupalowska, 
+    Leslie Gaffney, 
+    William Mauck,
+Gokcen Eraslan, 
+    John C.Marioni, 
+    Aviv Regev, 
+    Rahul Satija. 
+ Cell
+. December 2019.
 
-"Comprehensive Integration of Single-Cell Data." ['Tim Stuart$^*$', 'Andrew
-Butler$^*$', 'Paul Hoffman', 'Christoph Hafemeister', 'Efthymia Papalexi',
-'William M Mauck III', 'Yuhan Hao', 'Marlon Stoeckius', 'Peter Smibert', 'Rahul
-Satija']. Cell . June 2019.
+"[Comprehensive Integration of Single-Cell
+Data](https://doi.org/10.1016/j.cell.2019.05.031)."
+<br>
+    Tim Stuart*,
+Andrew Butler*, 
+    Paul Hoffman, 
+    Christoph Hafemeister, 
+    Efthymia
+Papalexi, 
+    William M Mauck III, 
+    Yuhan Hao, 
+    Marlon Stoeckius,
+Peter Smibert, 
+    Rahul Satija. 
+ Cell . June 2019.
 
-"Integrated analysis of single cell transcriptomic data across conditions,
-technologies, and species." ['Andrew Butler', 'Paul Hoffman', 'Peter Smibert',
-'Efthymia Papalexi', 'Rahul Satija']. Nature Biotechnology . April 2018.
+"[Integrated analysis of single cell transcriptomic data across conditions,
+technologies, and species](https://www.nature.com/articles/nbt.4096)."
+<br>
+Andrew Butler, 
+    Paul Hoffman, 
+    Peter Smibert, 
+    Efthymia Papalexi,
+Rahul Satija. 
+ Nature Biotechnology . April 2018.
 
-"Molecular transitions in early progenitors during human cord blood
-hematopoiesis." ['Shiwei Zheng', 'Efthymia Papalexi', 'Andrew Butler', 'William
-Stephenson', 'Rahul Satija']. Molecular Systems Biology . March 2018.
+"[Molecular transitions in early progenitors during human cord blood
+hematopoiesis](http://msb.embopress.org/content/14/3/e8041)."
+<br>
+    Shiwei
+Zheng, 
+    Efthymia Papalexi, 
+    Andrew Butler, 
+    William Stephenson,
+Rahul Satija. 
+ Molecular Systems Biology . March 2018.
 
-"Developmental diversification of cortical inhibitory interneurons."
-['Christian Mayer$^*$', 'Christoph Hafemeister$^*$', 'Rachel C. Bandler$^*$',
-'Robert Machold', 'Renata Batista Brito', 'Xavier Jaglin', 'Kathryn Allaway',
-'Andrew Butler', 'Gord Fishell', 'Rahul Satija']. Nature . March 2018.
+"[Developmental diversification of cortical inhibitory
+interneurons](https://www.nature.com/articles/nature25999)."
+<br>
+    Christian
+Mayer*, 
+    Christoph Hafemeister*, 
+    Rachel C. Bandler*, 
+    Robert
+Machold, 
+    Renata Batista Brito, 
+    Xavier Jaglin, 
+    Kathryn Allaway,
+Andrew Butler, 
+    Gord Fishell, 
+    Rahul Satija. 
+ Nature . March 2018.
 
-"Single-Cell RNA-Seq Of Rheumatoid Arthritis Synovial Tissue Using Low Cost
-Microfluidic Instrumentation." ['William Stephenson$^*$', 'Laura T Donlin$^*$',
-'Andrew Butler$^*$', 'Cristina Rozo', 'Ali Rashidfarrokhi', 'Susan M Goodman',
-'Lionel B Ivashkiv', 'Vivian P Bykerk', 'Dana E Orange', 'Robert B Darnell',
-'Harold P Swerdlow', 'Rahul Satija']. Nature Comunications . February 2018.
+"[Single-Cell RNA-Seq Of Rheumatoid Arthritis Synovial Tissue Using Low Cost
+Microfluidic
+Instrumentation](https://www.nature.com/articles/s41467-017-02659-x)."
+<br>
+William Stephenson*, 
+    Laura T Donlin*, 
+    Andrew Butler*, 
+    Cristina
+Rozo, 
+    Ali Rashidfarrokhi, 
+    Susan M Goodman, 
+    Lionel B Ivashkiv,
+Vivian P Bykerk, 
+    Dana E Orange, 
+    Robert B Darnell, 
+    Harold P
+Swerdlow, 
+    Rahul Satija. 
+ Nature Comunications . February 2018.
 
-"Single-cell RNA-seq reveals new types of human blood dendritic cells,
-monocytes, and progenitors." ['Alexandra-Chloe Villani$^*$', 'Rahul
-Satija$^*$', 'Gary Reynolds', 'Siranush Sarkizova', 'Karthik Shekhar', 'James
-Fletcher', 'Morgane Griesbeck', 'Andrew Butler', 'Shiwei Zheng', 'Suzan Lazo',
-'Laura Jardine', 'David Dixon', 'Emily Stephenson', 'Emil Nilsson', 'Ida
-Grundberg', 'David McDonald', 'Andrew Filby', 'Weibo Li', 'Philip L De Jager',
-'Orit Rozenblatt-Rosen', 'Andrew A Lane', 'Muzlifah Haniffa', 'Aviv Regev',
-'Nir Hacohen']. Science . April 2017.
+"[Single-cell RNA-seq reveals new types of human blood dendritic cells,
+monocytes, and
+progenitors](http://science.sciencemag.org/content/356/6335/eaah4573)."
+<br>
+Alexandra-Chloe Villani*, 
+    Rahul Satija*, 
+    Gary Reynolds, 
+    Siranush
+Sarkizova, 
+    Karthik Shekhar, 
+    James Fletcher, 
+    Morgane Griesbeck,
+Andrew Butler, 
+    Shiwei Zheng, 
+    Suzan Lazo, 
+    Laura Jardine,
+David Dixon, 
+    Emily Stephenson, 
+    Emil Nilsson, 
+    Ida Grundberg,
+David McDonald, 
+    Andrew Filby, 
+    Weibo Li, 
+    Philip L De Jager,
+Orit Rozenblatt-Rosen, 
+    Andrew A Lane, 
+    Muzlifah Haniffa, 
+    Aviv
+Regev, 
+    Nir Hacohen. 
+ Science . April 2017.
 
-"Seq-Well: portable, low-cost RNA sequencing of single cells at high
-throughput." ['Todd M Gierahn', 'Marc H Wadsworth II', 'Travis K Hughes',
-'Bryan D Bryson', 'Andrew Butler', 'Rahul Satija', 'Sarah Fortune', 'J
-Christopher Love', 'Alex K Shalek']. Nature Methods . February 2017.
+"[Seq-Well: portable, low-cost RNA sequencing of single cells at high
+throughput](https://www.nature.com/nmeth/journal/v14/n4/abs/nmeth.4179.html)."
+<br>
+    Todd M Gierahn, 
+    Marc H Wadsworth II, 
+    Travis K Hughes,
+Bryan D Bryson, 
+    Andrew Butler, 
+    Rahul Satija, 
+    Sarah Fortune,
+J Christopher Love, 
+    Alex K Shalek. 
+ Nature Methods . February 2017.
 
 
 ### Teaching Experience ###

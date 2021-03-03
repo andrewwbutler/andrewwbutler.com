@@ -1,5 +1,5 @@
 [Download PDF](/cv.pdf) |
-Last updated: October 13, 2020
+Last updated: March 3, 2021
 
 
 ### Education ###
@@ -46,6 +46,24 @@ B.S. Biology Honors  - _August 2011-May 2015_
 
 ### Publications ###
 --------------------
+"[Characterizing the molecular regulation of inhibitory immune checkpoints with
+multi-modal single-cell screens](https://doi.org/10.1038/s41588-021-00778-2)."
+<br>
+    Efthymia Papalexi, 
+    Eleni Mimitou, 
+    Andrew Butler,
+Samantha Foster, 
+    Bernadette Bracken, 
+    William Mauck, 
+    Hans-Hermann
+Wessels, 
+    Yuhan Hao, 
+    Bertrand Yeung, 
+    Peter Smibert, 
+    Rahul
+Satija. 
+ Nature Genetics . March 2021.
+
 "[Integrated analysis of multimodal single-cell
 data](https://www.biorxiv.org/content/10.1101/2020.10.12.335331v1)."
 <br>
@@ -79,23 +97,6 @@ A. Blish,
     Peter Smibert, 
     Rahul Satija.
 bioRxiv . October 2020.
-
-"[Characterizing the molecular regulation of inhibitory immune checkpoints with
-multi-modal single-cell
-screens](https://www.biorxiv.org/content/10.1101/2020.06.28.175596v1)."
-<br>
-Efthymia Papalexi, 
-    Eleni Mimitou, 
-    Andrew Butler, 
-    Samantha
-Foster, 
-    Bernadette Bracken, 
-    William Mauck, 
-    Hans-Hermann Wessels,
-Bertrand Yeung, 
-    Peter Smibert, 
-    Rahul Satija. 
- bioRxiv . June 2020.
 
 "[Toward a Common Coordinate Framework for the Human
 Body](https://doi.org/10.1016/j.cell.2019.11.019)."
